@@ -1,0 +1,9 @@
+node_modules
+.idea
+Dockerfile
+.env
+docker-compose.yml
+package-lock.json
+.scannerwork
+sonar-project.properties
+.dccache
